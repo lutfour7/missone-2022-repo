@@ -8,6 +8,7 @@ body{
   width: 50%;
   padding-left: 5%;
   padding-top: 100px;
+  padding-bottom: 100px;
 }
 .hirf-width img{
   width: 70%;
@@ -29,4 +30,32 @@ body{
   font-weight: 400;
   padding: 10px 40px;
   border-radius: 10px;
+}
+.my-mision{
+ text-align: center;
+  color:blue ;
+  font-size:50px ;
+}
+.mision{ 
+  background-color: cyan;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 20px;
+  padding-left: 10px;
+}
+
+.Vission{
+  background-color: rgb(26, 190, 190);
+  margin-left:10px;
+  margin-right:10px;
+  border-radius: 20px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+.goals{
+  background-color: deepskyblue;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 20px;
+  padding-left: 10px;
 }
